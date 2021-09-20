@@ -45,7 +45,7 @@ Welcome to Puneet Dabral's profile! <img src="https://media.giphy.com/media/12ou
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Puneet Dabral's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PuneetDabral&theme=monokai-metallian&hide_border=true"/>  
+     <img  src="https://github-readme-streak-stats.herokuapp.com?user=PuneetDabral&theme=radical" />
 </p>
 
 ## 🛠️ My favorite tools
