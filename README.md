@@ -11,7 +11,7 @@ Welcome to Puneet Dabral's profile! <img src="https://media.giphy.com/media/12ou
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 💞️ Fun Fact: Iron Man Fan😁
 
-<!-- Badges template - https://github.com/badges/shields -->
+<!-- Badges template - https://github.com/badges/shields 
 
 
 
@@ -26,11 +26,11 @@ Welcome to Puneet Dabral's profile! <img src="https://media.giphy.com/media/12ou
 <p align="center">
   
   
-  <!-- Instagram -->
+  <!-- Instagram 
   <a href="https://www.instagram.com/puneet__dabral/" target="_blank"><img alt="Instagram"
                 src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
         </a>
-        <!-- Linkedin -->
+        <!-- Linkedin 
         <a href="https://www.linkedin.com/in/puneet-dabral-kumar-90566521b/" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
@@ -43,7 +43,7 @@ Welcome to Puneet Dabral's profile! <img src="https://media.giphy.com/media/12ou
 
 ## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats 
 <p align="center">
      <img  src="https://github-readme-streak-stats.herokuapp.com?user=PuneetDabral&theme=radical" />
 </p>
@@ -91,7 +91,7 @@ Welcome to Puneet Dabral's profile! <img src="https://media.giphy.com/media/12ou
 
 # 📊 Github stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/anuraghazra/github-readme-stats 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
@@ -101,5 +101,5 @@ Welcome to Puneet Dabral's profile! <img src="https://media.giphy.com/media/12ou
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=PuneetDabral&theme=react-dark&hide_border=true" /></a>  -->
