@@ -3,7 +3,7 @@
 Welcome to Puneet Dabral's profile! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h3>
 
-##  I'm a Student, Developer, and Learner!!
+##  I'm a Developer, and Learner!!
 
 - 👀 I’m interested in New Tech, Full Stack Development
 - 🌱 I’m currently learning everything
